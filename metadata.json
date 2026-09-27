@@ -1,0 +1,6 @@
+{
+  "name": "SafarPair - Dual Mode Carpooling & AI Route Split",
+  "description": "AI-powered ride matching, 50/50 fuel cost split, dual driver/passenger profile toggle, and verified Women-Only carpooling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
